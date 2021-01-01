@@ -1,0 +1,17 @@
+.header{
+    background: url('bg.jpg');
+    min-height: 600px;
+}
+
+.ludopic{
+    margin: 0px auto;
+    text-align: center;
+}
+.phpswitch h3{
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+}
+form {
+    text-align: center;
+}
